@@ -1,0 +1,18 @@
+-d
+"/Users/Endryo/Desktop/teste/Cardapio 2/build/classes"
+-classpath
+"/Users/Endryo/Desktop/teste/Cardapio 2/build/classes"
+-sourcepath
+"/Users/Endryo/Desktop/teste/Cardapio 2/src"
+-target
+17
+-encoding
+UTF-8
+-g
+-processorpath
+"/Users/Endryo/Desktop/teste/Cardapio 2/build/empty"
+-s
+"/Users/Endryo/Desktop/teste/Cardapio 2/build/generated-sources/ap-source-output"
+-source
+17
+"/Users/Endryo/Desktop/teste/Cardapio 2/src/br/ufrpe/poo/cardapio/gui/CardapioMenu.java"
